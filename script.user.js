@@ -1,9 +1,8 @@
 // ==UserScript==
-// @name         Pixel Bot (BRATISHKIN edition)
+// @name         Pixel Bot (MindOFGhost edition)
 // @namespace    http://tampermonkey.net/
 // @version      0.1.2
 // @description  try to take over the world!
-// @author       Flyink13, DarkKeks, TheGorox, mnb3000, S1ROZHA
 // @match        https://pixel.vkforms.ru/*
 // @downloadURL  https://mindofghost.github.io/test/script.user.js
 // @updateURL    https://mindofghost.github.io/test/script.user.js
