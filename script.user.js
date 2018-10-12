@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks, TheGorox, mnb3000, S1ROZHA
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://mindofghost.github.io/test/script.js
-// @updateURL    https://mindofghost.github.io/test/script.js
+// @downloadURL  https://mindofghost.github.io/test/script.user.js
+// @updateURL    https://mindofghost.github.io/test/script.user.js
 // @grant        none
 // ==/UserScript==
 function PixelBot() {
@@ -18,7 +18,7 @@ function PixelBot() {
     }
 
     PixelBot.url = {
-        script: 'https://mindofghost.github.io/test/script.js',
+        script: 'https://mindofghost.github.io/test/script.user.js',
         image: 'https://mindofghost.github.io/test/image.png'
     };
 
