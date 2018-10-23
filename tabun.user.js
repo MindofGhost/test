@@ -42,10 +42,10 @@ ajax.onreadystatechange = function() {
 					var cut = ajax.response.slice(point, point+500);
 					point = cut.search('comment') + 7;
 					cut = cut.slice(point, point+8);
-					console.log(cut);
 					if (lastid[i] != cut){
 						ls.vote.vote(cut,this,settings[i]['direction'],'comment');
 						lastid[i] = cut;
+						console.log('новый пост обнаружен');
 					}
 				}
 			}
