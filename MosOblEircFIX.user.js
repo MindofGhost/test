@@ -6,6 +6,8 @@
 // @match        https://lkk-zkh.ru/main/
 // @match        https://lkk-zkh.ru/auth/
 // @grant        none
+// @updateURL    https://mindofghost.github.io/test/MosOblEircFIX.user.js
+// @downloadURL  https://mindofghost.github.io/test/MosOblEircFIX.user.js
 // ==/UserScript==
 
 (function() {
